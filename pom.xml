@@ -24,6 +24,7 @@
             <artifactId>testng</artifactId>
             <version>6.14.3</version>
         </dependency>
+        <!-- Added a comment -->
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
