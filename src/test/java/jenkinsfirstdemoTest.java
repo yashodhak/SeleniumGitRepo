@@ -20,6 +20,8 @@ public class jenkinsfirstdemoTest
         driver.close();
         System.out.println(" adding comment, jus to push code to git");
         System.out.println(" adding second comment, jus to push code to git");
+        System.out.println(" adding third comment, jus to push code to git");
+
         System.out.println("************  Browser closed ************ ");
     }
 }
