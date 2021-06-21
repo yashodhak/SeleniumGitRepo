@@ -19,7 +19,7 @@ public class jenkinsfirstdemoTest
         System.out.println("After Assertion " + Expectedtitle + Actualtitle + "\n Title matched ");
         driver.close();
         System.out.println(" Checking SCM setting..");
-
+        System.out.println(" Checking SCM setting for the second time..");
         System.out.println("************  Browser closed ************ ");
     }
 }
