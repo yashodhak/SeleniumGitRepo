@@ -18,10 +18,6 @@ public class jenkinsfirstdemoTest
         Assert.assertEquals(Actualtitle, Expectedtitle);
         System.out.println("After Assertion " + Expectedtitle + Actualtitle + "\n Title matched ");
         driver.close();
-        System.out.println(" adding comment, jus to push code to git");
-        System.out.println(" adding second comment, jus to push code to git");
-        System.out.println(" adding third comment, jus to push code to git");
-        System.out.println(" adding fourth comment, jus to push code to git");
         System.out.println("************  Browser closed ************ ");
     }
 }
