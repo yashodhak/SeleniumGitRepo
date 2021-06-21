@@ -18,6 +18,8 @@ public class jenkinsfirstdemoTest
         Assert.assertEquals(Actualtitle, Expectedtitle);
         System.out.println("After Assertion " + Expectedtitle + Actualtitle + "\n Title matched ");
         driver.close();
+        System.out.println(" Checking SCM setting..");
+
         System.out.println("************  Browser closed ************ ");
     }
 }
