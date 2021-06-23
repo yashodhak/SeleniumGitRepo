@@ -34,7 +34,7 @@ public class jenkinsfirstdemoTest
     }
 
     @AfterTest
-    public void startReport() {
+    public void extentReport() {
         ExtentHtmlReporter   htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir") +"/Reports/testReport.html");
         ExtentReports extent = new ExtentReports();
         extent.attachReporter(htmlReporter);

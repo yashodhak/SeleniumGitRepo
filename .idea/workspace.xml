@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="331f89d6-8af6-4eda-ab04-6f7d193d5dd8" name="Default Changelist" comment="commit-4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/jenkinsfirstdemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jenkinsfirstdemoTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/jenkinsfirstdemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+            <state relative-caret-position="271">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -272,9 +270,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_yashodhak_Documents_Jenkins_testng_xml - 2021.06.23 at 23h 07m 16s.xml">
-      <configuration name="/Users/yashodhak/Documents/Jenkins/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_yashodhak_Documents_Jenkins_testng_xml - 2021.06.23 at 23h 09m 42s.xml">
       <configuration name="/Users/yashodhak/Documents/Jenkins/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -302,6 +297,9 @@
     <history-entry file="jenkinsfirstdemoTest - 2021.06.23 at 23h 35m 33s.xml">
       <configuration name="jenkinsfirstdemoTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="jenkinsfirstdemoTest - 2021.06.23 at 23h 36m 34s.xml">
+      <configuration name="jenkinsfirstdemoTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -317,7 +315,7 @@
     <frame x="308" y="23" width="1259" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49795082" visible="true" weight="0.19556285" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49795082" visible="true" weight="0.19556285" />
       <window_info id="Structure" order="1" sideWeight="0.5020492" side_tool="true" weight="0.20429105" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -326,14 +324,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.5020492" side_tool="true" weight="0.20429105" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.18543956" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -483,8 +481,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jenkinsfirstdemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        <state relative-caret-position="271">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
