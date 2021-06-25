@@ -12,13 +12,12 @@ import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class jenkinsfirstdemoTest
 {
     @Test
-    public void launch(){
+    public void launchFirst(){
         System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
         System.out.println("************ Opening chrome browser ************");
         WebDriver driver = new ChromeDriver();
@@ -30,17 +29,18 @@ public class jenkinsfirstdemoTest
         Assert.assertEquals(Actualtitle, Expectedtitle);
         System.out.println("After Assertion " + Expectedtitle + Actualtitle + "\n Title matched ");
         driver.close();
+        System.out.println("Just checking..");
         System.out.println("************  Browser closed ************ ");
     }
 
     @AfterTest
     public void extentReport() {
-        ExtentHtmlReporter   htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir") +"/Reports/testReport.html");
+        ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir") +"/Reports/testReport.html");
         ExtentReports extent = new ExtentReports();
         extent.attachReporter(htmlReporter);
         ExtentTest test = extent.createTest("Open CRED website on chrome browser");
         test.log(Status.PASS,"Opened CRED site succesfully");
-      //  test.log(Status.FAIL,"Failed to open CRED site");
+       // test.log(Status.FAIL,"Failed to open CRED site");
         extent.flush();
 
     }

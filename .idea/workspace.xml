@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="331f89d6-8af6-4eda-ab04-6f7d193d5dd8" name="Default Changelist" comment="commit-4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/testReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/testReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/jenkinsfirstdemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jenkinsfirstdemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jenkinfirstproject-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/jenkinfirstproject-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jenkinsfirstdemoTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/jenkinsfirstdemoTest.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,42 +26,15 @@
     <favorites_list name="jenkinfirstproject" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/jenkinsfirstdemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+            <state relative-caret-position="351">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -112,7 +92,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,10 +104,42 @@
               <item name="Jenkins" type="462c0819:PsiDirectoryNode" />
               <item name="Reports" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jenkinfirstproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jenkinfirstproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jenkinfirstproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jenkinfirstproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jenkinfirstproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -270,18 +281,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_yashodhak_Documents_Jenkins_testng_xml - 2021.06.23 at 23h 09m 42s.xml">
-      <configuration name="/Users/yashodhak/Documents/Jenkins/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="jenkinsfirstdemoTest - 2021.06.23 at 23h 27m 10s.xml">
-      <configuration name="jenkinsfirstdemoTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="jenkinsfirstdemoTest - 2021.06.23 at 23h 27m 20s.xml">
-      <configuration name="jenkinsfirstdemoTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="jenkinsfirstdemoTest - 2021.06.23 at 23h 27m 30s.xml">
-      <configuration name="jenkinsfirstdemoTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="jenkinsfirstdemoTest - 2021.06.23 at 23h 28m 04s.xml">
       <configuration name="jenkinsfirstdemoTest" configurationId="TestNG" />
     </history-entry>
@@ -300,6 +299,18 @@
     <history-entry file="jenkinsfirstdemoTest - 2021.06.23 at 23h 36m 34s.xml">
       <configuration name="jenkinsfirstdemoTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="jenkinsfirstdemoTest - 2021.06.24 at 13h 02m 44s.xml">
+      <configuration name="jenkinsfirstdemoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="jenkinsfirstdemoTest - 2021.06.24 at 13h 03m 10s.xml">
+      <configuration name="jenkinsfirstdemoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="jenkinsfirstdemoTest - 2021.06.24 at 13h 08m 21s.xml">
+      <configuration name="jenkinsfirstdemoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="jenkinsfirstdemoTest - 2021.06.24 at 13h 11m 54s.xml">
+      <configuration name="jenkinsfirstdemoTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,7 +326,7 @@
     <frame x="308" y="23" width="1259" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49795082" visible="true" weight="0.19556285" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49795082" visible="true" weight="0.19884963" />
       <window_info id="Structure" order="1" sideWeight="0.5020492" side_tool="true" weight="0.20429105" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -324,14 +335,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.5020492" side_tool="true" weight="0.20429105" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.18543956" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -479,10 +490,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Reports/testReport.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jenkinsfirstdemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        <state relative-caret-position="351">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
