@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="331f89d6-8af6-4eda-ab04-6f7d193d5dd8" name="Default Changelist" comment="commit-4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/testReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/testReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/jenkinsfirstdemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jenkinsfirstdemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jenkinfirstproject-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/jenkinfirstproject-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jenkinsfirstdemoTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/jenkinsfirstdemoTest.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/jenkinsfirstdemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -302,7 +295,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="297" y="78" width="1259" height="820" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49795082" visible="true" weight="0.2021364" />
       <window_info id="Structure" order="1" sideWeight="0.5020492" side_tool="true" weight="0.20429105" />
@@ -467,7 +459,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/jenkinsfirstdemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
