@@ -29,7 +29,7 @@ public class jenkinsfirstdemoTest
         Assert.assertEquals(Actualtitle, Expectedtitle);
         System.out.println("After Assertion " + Expectedtitle + Actualtitle + "\n Title matched ");
         driver.close();
-        System.out.println("Just checking..");
+        System.out.println("Checking..");
         System.out.println("************  Browser closed ************ ");
     }
 
@@ -40,9 +40,7 @@ public class jenkinsfirstdemoTest
         extent.attachReporter(htmlReporter);
         ExtentTest test = extent.createTest("Open CRED website on chrome browser");
         test.log(Status.PASS,"Opened CRED site succesfully");
-       // test.log(Status.FAIL,"Failed to open CRED site");
         extent.flush();
-
     }
 
 }
